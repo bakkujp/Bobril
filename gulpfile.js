@@ -184,3 +184,5 @@ gulp.task('default', ['watch']);
 gulp.task('hehe', ['watch']);
 gulp.task('hoho', ['watch']);
 gulp.task('huhu', ['watch']);
+
+gulp.task('haha', ['watch']);
