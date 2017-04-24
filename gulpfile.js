@@ -181,3 +181,4 @@ gulp.task('compilets', function () {
 });
 
 gulp.task('default', ['watch']);
+gulp.task('hehe', ['watch']);
