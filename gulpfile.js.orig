@@ -181,6 +181,9 @@ gulp.task('compilets', function () {
 });
 
 gulp.task('default', ['watch']);
+<<<<<<< Updated upstream
 gulp.task('hehe', ['watch']);
-gulp.task('hoho', ['watch']);
+=======
+
 gulp.task('huhu', ['watch']);
+>>>>>>> Stashed changes
