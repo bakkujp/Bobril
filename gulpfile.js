@@ -185,3 +185,4 @@ gulp.task('hehe', ['watch']);
 gulp.task('huhu', ['watch']);
 
 gulp.task('hiuhiu', ['watch']);
+gulp.task('hiuhiu', ['watch']);
